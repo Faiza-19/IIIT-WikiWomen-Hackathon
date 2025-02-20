@@ -1,5 +1,5 @@
-# Hackathon2024
-Unseen Legacies: Highlighting Women's Underrepresentation in Data
+#Unseen Legacies: Highlighting Women's Underrepresentation in Data
+Hackathon2024
 Overview
 Unseen Legacies is a web-based platform aimed at raising awareness about the underrepresentation of women in diverse fields, including STEM, civil services, business, policy, and beyond. Through data visualizations, articles, and interactive features, the site sheds light on the gender data gap and its societal implications, while fostering discussion and user engagement.
 
